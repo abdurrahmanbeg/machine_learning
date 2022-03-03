@@ -1,0 +1,201 @@
+Gender ,Age ,Job,Eduction ,Income,car ownership,driving license,Travel in week ,Travel distance (KM),Travel purpose ,AT,tt1,tc1,rfee1,tt2,tc2,mc2,cc2,tt3,tc3,tt4,tc4,Choice(Y)
+Female,31-40,Public Company Employee,Undergraduate,31000–60000,No car,Yes,4 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Female,31-40,Public Company Employee,Undergraduate,31000–60000,No car,Yes,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Female,31-40,Public Company Employee,Undergraduate,31000–60000,No car,Yes,4 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,BUS
+Female,31-40,Public Company Employee,Undergraduate,31000–60000,No car,Yes,4 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,Private Company Employee,Undergraduate,31000–60000,Have a personal car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,Private Company Employee,Undergraduate,31000–60000,Have a personal car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,18-30,Private Company Employee,Undergraduate,31000–60000,Have a personal car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Private Company Employee,Undergraduate,31000–60000,Have a personal car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,One Day,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,One Day,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,One Day,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,One Day,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,TX
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,One Day,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,One Day,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,One Day,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,One Day,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,4 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,TX
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,4 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,4 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Male,18-30,School/ University Student,Graduate,31000–60000,No car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Male,18-30,School/ University Student,Graduate,31000–60000,No car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,School/ University Student,Graduate,31000–60000,No car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Graduate,31000–60000,No car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,One Day,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,One Day,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,One Day,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,One Day,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Male,41-50,Private Company Employee,Graduate,61000 – 90000,Have a personal car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,PC
+Male,41-50,Private Company Employee,Graduate,61000 – 90000,Have a personal car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,BUS
+Male,41-50,Private Company Employee,Graduate,61000 – 90000,Have a personal car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,41-50,Private Company Employee,Graduate,61000 – 90000,Have a personal car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,TX
+Male,41-50,Public Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,41-50,Public Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,41-50,Public Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,41-50,Public Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,No car,No,2 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Female,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Female,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Female,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,TX
+Female,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,18-30,School/ University Student,High School,0 – 30000,Do not have a personal car but other family member has a car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,School/ University Student,High School,0 – 30000,Do not have a personal car but other family member has a car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,18-30,School/ University Student,High School,0 – 30000,Do not have a personal car but other family member has a car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,School/ University Student,High School,0 – 30000,Do not have a personal car but other family member has a car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,41-50,Private Company Employee,Graduate,31000–60000,Have a personal car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,BUS
+Male,41-50,Private Company Employee,Graduate,31000–60000,Have a personal car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,BUS
+Male,41-50,Private Company Employee,Graduate,31000–60000,Have a personal car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,41-50,Private Company Employee,Graduate,31000–60000,Have a personal car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,Private Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,BUS
+Male,18-30,Private Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,18-30,Private Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Private Company Employee,Graduate,0 – 30000,Have a personal car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,4 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,BUS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,4 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,BUS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Do not have a personal car but other family member has a car,No,4 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,No,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,BUS
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,No,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,No,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,No,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,Yes,None,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,Yes,None,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,Yes,None,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,Yes,None,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Male,31-40,Public Company Employee,Graduate,31000–60000,No car,Yes,3 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Male,31-40,Public Company Employee,Graduate,31000–60000,No car,Yes,3 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,31-40,Public Company Employee,Graduate,31000–60000,No car,Yes,3 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,31-40,Public Company Employee,Graduate,31000–60000,No car,Yes,3 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,None,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,None,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,BUS
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,None,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,None,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,PC
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,BUS
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,41-50,School/ University Student,Undergraduate,0 – 30000,No car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,Private Company Employee,Graduate,61000 – 90000,Do not have a personal car but other family member has a car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,BUS
+Male,18-30,Private Company Employee,Graduate,61000 – 90000,Do not have a personal car but other family member has a car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,TX
+Male,18-30,Private Company Employee,Graduate,61000 – 90000,Do not have a personal car but other family member has a car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Private Company Employee,Graduate,61000 – 90000,Do not have a personal car but other family member has a car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,TX
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Have a personal car,No,None,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Have a personal car,No,None,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Have a personal car,No,None,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,School/ University Student,Undergraduate,0 – 30000,Have a personal car,No,None,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,One Day,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,One Day,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,One Day,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,BUS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,One Day,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,2 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,2 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,TX
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,2 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,2 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,TX
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,High School,0 – 30000,No car,No,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,2 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,2 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,2 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,2 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,4 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,BUS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,4 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,School/ University Student,Graduate,0 – 30000,Have a personal car,Yes,4 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,TX
+Male,18-30,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,No,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,3 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,TX
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,3 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,3 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,No car,No,3 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,3 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,3 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,3 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,TX
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,3 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Male,18-30,Unemployed,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,One Day,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,Unemployed,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,One Day,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,TX
+Male,18-30,Unemployed,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,One Day,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Unemployed,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,One Day,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,4 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,4 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,Do not have a personal car but other family member has a car,No,4 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,None,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,BUS
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,None,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,None,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Graduate,0 – 30000,No car,No,None,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,18-30,School/ University Student,Graduate,91000 – 120000,No car,No,None,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,18-30,School/ University Student,Graduate,91000 – 120000,No car,No,None,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Male,18-30,School/ University Student,Graduate,91000 – 120000,No car,No,None,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,Graduate,91000 – 120000,No car,No,None,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,BUS
+Female,31-40,Public Company Employee,Graduate,91000 – 120000,No car,No,4 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Female,31-40,Public Company Employee,Graduate,91000 – 120000,No car,No,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Female,31-40,Public Company Employee,Graduate,91000 – 120000,No car,No,4 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Female,31-40,Public Company Employee,Graduate,91000 – 120000,No car,No,4 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Male,18-30,Public Company Employee,Undergraduate,> 120000,No car,No,2 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,18-30,Public Company Employee,Undergraduate,> 120000,No car,No,2 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,18-30,Public Company Employee,Undergraduate,> 120000,No car,No,2 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,Public Company Employee,Undergraduate,> 120000,No car,No,2 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,PC
+Male,51-65,Entrepreneur,Undergraduate,91000 – 120000,Have a personal car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,CS
+Male,51-65,Entrepreneur,Undergraduate,91000 – 120000,Have a personal car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,51-65,Entrepreneur,Undergraduate,91000 – 120000,Have a personal car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,51-65,Entrepreneur,Undergraduate,91000 – 120000,Have a personal car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,PC
+Female,31-40,Private Company Employee,Graduate,61000 – 90000,No car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,CS
+Female,31-40,Private Company Employee,Graduate,61000 – 90000,No car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Female,31-40,Private Company Employee,Graduate,61000 – 90000,No car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,TX
+Female,31-40,Private Company Employee,Graduate,61000 – 90000,No car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,CS
+Female,41-50,Public Company Employee,Undergraduate,31000–60000,No car,No,3 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Female,41-50,Public Company Employee,Undergraduate,31000–60000,No car,No,3 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,CS
+Female,41-50,Public Company Employee,Undergraduate,31000–60000,No car,No,3 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,TX
+Female,41-50,Public Company Employee,Undergraduate,31000–60000,No car,No,3 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Male,51-65,Private Company Employee,Undergraduate,91000 – 120000,No car,No,4 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,51-65,Private Company Employee,Undergraduate,91000 – 120000,No car,No,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,TX
+Male,51-65,Private Company Employee,Undergraduate,91000 – 120000,No car,No,4 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,51-65,Private Company Employee,Undergraduate,91000 – 120000,No car,No,4 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
+Female,41-50,Private Company Employee,Graduate,61000 – 90000,More than one car,Yes,4 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,PC
+Female,41-50,Private Company Employee,Graduate,61000 – 90000,More than one car,Yes,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Female,41-50,Private Company Employee,Graduate,61000 – 90000,More than one car,Yes,4 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Female,41-50,Private Company Employee,Graduate,61000 – 90000,More than one car,Yes,4 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,CS
+Male,18-30,School/ University Student,Undergraduate,61000 – 90000,Do not have a personal car but other family member has a car,No,4 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,PC
+Male,18-30,School/ University Student,Undergraduate,61000 – 90000,Do not have a personal car but other family member has a car,No,4 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,TX
+Male,18-30,School/ University Student,Undergraduate,61000 – 90000,Do not have a personal car but other family member has a car,No,4 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,School/ University Student,Undergraduate,61000 – 90000,Do not have a personal car but other family member has a car,No,4 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,Private Company Employee,Graduate,31000–60000,Have a personal car,No,5 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,Have a personal car,No,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,CS
+Male,18-30,Private Company Employee,Graduate,31000–60000,Have a personal car,No,5 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Private Company Employee,Graduate,31000–60000,Have a personal car,No,5 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,PC
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,TX
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,41-50,School/ University Student,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,PC
+Male,18-30,School/ University Student,High School,> 120000,No car,No,One Day,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,18-30,School/ University Student,High School,> 120000,No car,No,One Day,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,18-30,School/ University Student,High School,> 120000,No car,No,One Day,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,School/ University Student,High School,> 120000,No car,No,One Day,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,BUS
+Male,18-30,Public Company Employee,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,5,event,alone ,40,400,30000,35,400,30000,0,50,500,90,40,BUS
+Male,18-30,Public Company Employee,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,10,amusement,friends ,30,350,20000,35,300,50000,0,40,550,75,30,BUS
+Male,18-30,Public Company Employee,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,20,work ,alone ,40,450,40000,25,400,30000,0,60,500,90,20,PC
+Male,18-30,Public Company Employee,Graduate,0 – 30000,Do not have a personal car but other family member has a car,Yes,3 Days,30,shoping,family ,20,400,30000,25,350,40000,0,50,600,60,20,BUS
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,Yes,5 Days,5,event,alone ,40,400,30000,35,400,30000,1300000,50,500,90,40,PC
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,Yes,5 Days,10,amusement,friends ,30,350,20000,35,300,50000,1300000,40,550,75,30,BUS
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,Yes,5 Days,20,work ,alone ,40,450,40000,25,400,30000,1000000,60,500,90,20,PC
+Male,18-30,Unemployed,Graduate,0 – 30000,No car,Yes,5 Days,30,shoping,family ,20,400,30000,25,350,40000,1600000,50,600,60,20,TX
